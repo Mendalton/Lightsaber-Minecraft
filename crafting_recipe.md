@@ -9,4 +9,4 @@
   N = netherite_ingot <br>
   L = lapis_lazuli <br>
   P = polished_blackstone
-  #= Empty space
+  <br>#= Empty space
